@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onstarlan
+- 👋 Hi, I’m Tarlan Babayev
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python / R / SQL
 - 📫 How to reach me www.linkedin.com/onstarlan
