@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onstarlan
-- 👀 I’m interested in Embedded Software
-- 🌱 I’m currently learning C / C++ / Rust
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python / R / SQL
 - 📫 How to reach me www.linkedin.com/onstarlan
 
 <!---
